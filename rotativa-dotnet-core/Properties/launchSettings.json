@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "rotativa-dotnet-core": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
